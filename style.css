@@ -41,16 +41,14 @@ goods
     padding: 40px 0;
 }
 .goods .pc {
-    max-width: 300px;
+    max-width: 290px;
     margin: 0 auto;
 }
 .goods img{
     max-width: 100%;
 }
 .goods .pc .image {
-    max-width: 311px;
-    height: 311px;
-    object-fit: cover;
+
 }
 
 .goods .pc .laterre {
