@@ -47,9 +47,6 @@ goods
 .goods img{
     max-width: 100%;
 }
-.goods .pc .image {
-
-}
 
 .goods .pc .laterre {
     width: 322px;
@@ -274,6 +271,26 @@ footer
 /*-----------------------------------
 responsive
 -----------------------------------*/
+@media (max-width: 465px){
+    .title .text {
+        max-width: 300px;
+    }
+    .goods .pc {
+        max-width: 260px;
+    }
+}
+@media (max-width: 425px){
+    .title .text {
+        max-width: 265px;
+    }
+    .goods .pc {
+        max-width: 230px;
+    }
+    .box{
+        max-width: 330px;
+    }
+}
+
 @media (max-width: 390px) {
     .pc {
         display: none;
