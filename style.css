@@ -114,7 +114,7 @@ concept
     position: relative;
     width: 100%;
     padding-bottom: 30%;
-    background-image: url('https://github.com/yuinaisa/LATERRE/blob/main/img/Group%2031.png?raw=true');
+    background-image: url("https://github.com/yuinaisa/LATERRE/blob/main/img/Group%2031.png?raw=true");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: left -5px;
